@@ -1,0 +1,1 @@
+This project consists of me desconstructing and creating the google homepage. Will continue to post updates as I progress! 
